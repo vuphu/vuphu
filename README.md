@@ -3,7 +3,7 @@
 I'm a software developer. I graduated from HCMC University of Science.
 
 - 🔭 I’m currently working on JobChat JSC, a start-up based in Da Nang City.
-
+- ⚡ My resume: https://vuphu.github.io
 <!--
 **vuphu/vuphu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
