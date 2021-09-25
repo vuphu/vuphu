@@ -2,13 +2,14 @@
 
 I'm a software developer. I graduated from HCMC University of Science.
 
-- 🔭 I’m currently working on JobChat JSC, a start-up based in Da Nang City.
 - ⚡ My resume: https://vuphu.github.io
+- 🌱 I’m currently learning backend development and machine learning.
+- 💬 Ask me about mobile (Flutter) and backend development.
+- ⚡ Fun fact: I work for passion instead of money 😅.
 <!--
 **vuphu/vuphu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
