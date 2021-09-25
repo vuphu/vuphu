@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer. I graduated from HCMC University of Science.
+I'm a software engineering. I graduated from HCMC University of Science.
 
 - ⚡ My resume: https://vuphu.github.io
 - 🌱 I’m currently learning backend development and machine learning.
