@@ -2,7 +2,6 @@
 
 I'm a software engineering. I graduated from HCMC University of Science.
 
-- ⚡ My resume: https://vuphu.github.io
 - 🌱 I’m currently learning backend development and machine learning.
 - 💬 Ask me about mobile (Flutter) and backend development.
 - ⚡ Fun fact: I work for passion instead of money 😅.
