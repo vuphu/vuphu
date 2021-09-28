@@ -2,6 +2,7 @@
 
 I'm a software engineering. I graduated from HCMC University of Science.
 
+- 🔭 I’m currently working in [Hodfords](https://www.linkedin.com/company/hodfords-com-ltd) as a backend developer
 - 🌱 I’m currently learning backend development and machine learning.
 - 💬 Ask me about mobile (Flutter) and backend development.
 - ⚡ Fun fact: I work for passion instead of money 😅.
